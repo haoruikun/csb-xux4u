@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://haoruikun.github.io/csb-xux4u/static/css/main.d32fc597.chunk.css",
+    "main.js": "https://haoruikun.github.io/csb-xux4u/static/js/main.f0df66ea.chunk.js",
+    "main.js.map": "https://haoruikun.github.io/csb-xux4u/static/js/main.f0df66ea.chunk.js.map",
+    "runtime-main.js": "https://haoruikun.github.io/csb-xux4u/static/js/runtime-main.4a404dec.js",
+    "runtime-main.js.map": "https://haoruikun.github.io/csb-xux4u/static/js/runtime-main.4a404dec.js.map",
+    "static/js/2.d3c8dd63.chunk.js": "https://haoruikun.github.io/csb-xux4u/static/js/2.d3c8dd63.chunk.js",
+    "static/js/2.d3c8dd63.chunk.js.map": "https://haoruikun.github.io/csb-xux4u/static/js/2.d3c8dd63.chunk.js.map",
+    "index.html": "https://haoruikun.github.io/csb-xux4u/index.html",
+    "static/css/main.d32fc597.chunk.css.map": "https://haoruikun.github.io/csb-xux4u/static/css/main.d32fc597.chunk.css.map",
+    "static/js/2.d3c8dd63.chunk.js.LICENSE.txt": "https://haoruikun.github.io/csb-xux4u/static/js/2.d3c8dd63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a404dec.js",
+    "static/js/2.d3c8dd63.chunk.js",
+    "static/css/main.d32fc597.chunk.css",
+    "static/js/main.f0df66ea.chunk.js"
+  ]
+}
